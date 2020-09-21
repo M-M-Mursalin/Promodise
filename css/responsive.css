@@ -1,0 +1,38 @@
+/* 1016px start  */
+@media (max-width: 1016px){
+    .banner-content p {
+        font-size: 17px;
+    }
+    .banner-content h2 {
+        font-size: 30px;
+    }
+    .banner-content span {
+        font-size: 15px;
+    }
+    .banner-button a {
+        padding: 10px 28px;
+        font-size: 12px;
+    }
+    .intro-content h2 {
+        font-size: 22px;
+    }
+    .pricing-item h2 {
+        font-size: 50px;
+        margin-bottom: 13px;
+    }
+    .pricing-item .card-top {
+        height: 60px;
+    }
+    .counter-top h2 {
+        font-size: 42px;
+    }
+    .counter-top span {
+        font-size: 25px;
+    }
+    .banner {
+        padding: 26px 0;
+    }
+    .about-left-intem ul li {
+        font-size: 10px;
+    }
+}
